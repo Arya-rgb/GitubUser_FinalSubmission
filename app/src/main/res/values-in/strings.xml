@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="Follower">Pengikut</string>
+    <string name="Following">Mengikuti</string>
+    <string name="Repository">Repository</string>
+    <string name="Profile">Profil</string>
+    <string name="Location">Lokasi</string>
+    <string name="Company">Perusahaan</string>
+    <string name="username_github">Username Github</string>
+    <string name="look_profil">Lihat Profil</string>
+    <string name="username">Nama User</string>
+    <string name="search">Cari</string>
+    <string name="Setting">Pengaturan</string>
+    <string name="turn_on_dark_mode">Aktifkan Mode Gelap</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="alert_message_title">Server Tidak Merespon !</string>
+    <string name="alert_message_body">Data Yang Anda Cari Tidak Dapat Di Temukan, Silahkan Coba Lagi Dengan Koneksi Internet !</string>
+    <string name="share_body1">hay, Aku mau merekomendasikan akun github untuk belajar, langsung klik</string>
+    <string name="share_body2">pemilik akun nya adalah</string>
+    <string name="share_body3">Selamat Belajar.</string>
+    <string name="share_title">Mau Share Kemana nih?</string>
+    <string name="menu_favorite">menuFav</string>
+    <string name="Favorite_user">User Favorit</string>
+    <string name="reminder">Nyalakan Pengingat</string>
+    <string name="reminder_switch">Pengingat</string>
+    <string name="notification_content">Ayo Cek Pengguna Github</string>
+    <string name="notification_toast">Notifikasi Dinyalakan</string>
+    <string name="notification_toast_cancel">Notifikasi Dimatikan</string>
+    <string name="data_kosong">Data Kosong</string>
+</resources>
+

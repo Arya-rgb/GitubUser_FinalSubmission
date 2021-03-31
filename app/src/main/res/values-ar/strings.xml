@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مستخدمو جيثب</string>
+    <string name="Follower">متابعون</string>
+    <string name="Following">يتبع</string>
+    <string name="Repository">يتبع</string>
+    <string name="Profile">حول</string>
+    <string name="Location">موقع</string>
+    <string name="Company">شركة</string>
+    <string name="username_github">اسم جيثب</string>
+    <string name="look_profil">رؤية حول</string>
+    <string name="username">اسم</string>
+    <string name="search">بحث</string>
+    <string name="Setting">إعدادات</string>
+    <string name="turn_on_dark_mode">قم بتشغيل الوضع الداكن</string>
+    <string name="dark_mode">الوضع المظلم</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="alert_message_title">الخادم لا يستجيب!</string>
+    <string name="alert_message_body">لا يمكن العثور على البيانات التي تبحث عنها ، يرجى المحاولة مرة أخرى باستخدام اتصال الإنترنت!</string>
+    <string name="share_body1">مرحبًا ، أريد أن أوصي بحساب github للتعلم ، فقط انقر</string>
+    <string name="share_body2">صاحب الحساب</string>
+    <string name="share_body3">لديك دراسة جيدة.</string>
+    <string name="share_title">اين تريد المشاركة؟</string>
+    <string name="menu_favorite">menuFav</string>
+    <string name="Favorite_user">المستخدم المفضل</string>
+    <string name="reminder">قم بتشغيل التذكيرات</string>
+    <string name="reminder_switch">تذكير</string>
+    <string name="notification_content">دعنا نتحقق من مستخدمي جيثب</string>
+    <string name="notification_toast">تم تشغيل الإخطارات</string>
+    <string name="notification_toast_cancel">الإخطارات متوقفة</string>
+    <string name="data_kosong">بيانات فارغة</string>
+
+</resources>
+

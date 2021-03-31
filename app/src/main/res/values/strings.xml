@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="Follower">Pengikut</string>
+    <string name="Following">Mengikuti</string>
+    <string name="Repository">Repository</string>
+    <string name="Profile">Profil</string>
+    <string name="Location">Lokasi</string>
+    <string name="Company">Perusahaan</string>
+    <string name="username_github">Username Github</string>
+    <string name="look_profil">Lihat Profil</string>
+    <string name="username">Nama User</string>
+    <string name="search">Cari</string>
+    <string name="Setting">Pengaturan</string>
+    <string name="turn_on_dark_mode">Aktifkan Mode Gelap</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="alert_message_title">Server Tidak Merespon !</string>
+    <string name="alert_message_body">Data Yang Anda Cari Tidak Dapat Di Temukan, Silahkan Coba Lagi Dengan Koneksi Internet !</string>
+    <string name="share_body1">hay, Aku mau merekomendasikan akun github untuk belajar, langsung klik</string>
+    <string name="share_body2">pemilik akun nya adalah</string>
+    <string name="share_body3">Selamat Belajar.</string>
+    <string name="share_title">Mau Share Kemana nih?</string>
+    <string name="menu_favorite">menuFav</string>
+    <string name="Favorite_user">User Favorit</string>
+    <string name="reminder">Nyalakan Pengingat</string>
+    <string name="reminder_switch">Pengingat</string>
+    <string name="notification_content">Ayo Cek Pengguna Github</string>
+    <string name="notification_toast">Notifikasi Dinyalakan</string>
+    <string name="notification_toast_cancel">Notifikasi Dimatikan</string>
+    <string name="data_kosong">Data Kosong</string>
+
+    <!-- image Description -->
+
+    <string name="black_gradient_color_suppose_to_make_text_easy_to_read" translatable="false">black gradient color suppose to make text easy to read</string>
+    <string name="user_photo_in_the_stack_widget" translatable="false">user photo in the stack widget</string>
+    <string name="place_holder_that_will_bi_invisible_after_user_do_searching" translatable="false">place holder that will bi invisible after user do searching</string>
+    <string name="place_holder_that_will_be_visible_if_there_s_problem_with_internet_connection_or_bad_respon_from_server" translatable="false">place holder that will be visible if there\'s problem with internet connection or bad respon from server</string>
+
+</resources>
+

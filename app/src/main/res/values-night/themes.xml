@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GithubUsers" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/teal_200</item>
+        <item name="colorPrimaryVariant">@color/dark_color</item>
+        <item name="colorOnPrimary">@color/dark_color</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/white</item>
+        <item name="tabStyle">@style/AppTheme.TabLayout</item>
+    </style>
+
+    <style name="companyIcon">
+        <item name="android:src">@drawable/ic_company</item>
+    </style>
+
+    <style name="locationIcon">
+        <item name="android:src">@drawable/ic_location_night</item>
+    </style>
+
+    <style name="repoIcon">
+        <item name="android:src">@drawable/ic_book_night</item>
+    </style>
+
+    <style name="buttonTheme">
+        <item name="android:backgroundTint">@color/deep_purple</item>
+    </style>
+
+    <style name="appBarTheme">
+        <item name="android:background">@color/black</item>
+    </style>
+
+
+    <style name="followingTheme">
+        <item name="drawableStartCompat">@drawable/ic_following_night</item>
+    </style>
+
+    <style name="followerTheme">
+        <item name="drawableStartCompat">@drawable/ic_follower_night</item>
+    </style>
+
+    <style name="AppTheme.TabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabSelectedTextColor">@color/white</item>
+        <item name="tabTextColor">@color/white</item>
+    </style>
+
+    <!-- Splash Screen Theme. Tidak menggunakan layout untuk splash screen -->
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <style name="ThemeOverlay.GithubUsers.AppWidgetContainer" parent="">
+        <item name="appWidgetBackgroundColor">@color/light_blue_900</item>
+        <item name="appWidgetTextColor">@color/light_blue_200</item>
+    </style>
+
+
+</resources>

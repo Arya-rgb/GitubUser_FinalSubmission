@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="Follower">Follower</string>
+    <string name="Following">Following</string>
+    <string name="Repository">Repository</string>
+    <string name="Profile">Profil</string>
+    <string name="Location">Location</string>
+    <string name="Company">Company</string>
+    <string name="username_github">Username Github</string>
+    <string name="look_profil">Look Profil</string>
+    <string name="username">User Name</string>
+    <string name="search">Search</string>
+    <string name="Setting">Setting</string>
+    <string name="turn_on_dark_mode">Turn On Dark Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="change_language">Change Language</string>
+    <string name="alert_message_title">Server Not Responding !</string>
+    <string name="alert_message_body">The data you are looking for cannot be found, please try again with an internet connection !</string>
+    <string name="share_body1">hi, I want to recommend a github account to learn, just click</string>
+    <string name="share_body2">the account owner is</string>
+    <string name="share_body3">Have a good study. </string>
+    <string name="share_title">Where do you want to share ?</string>
+    <string name="menu_favorite">menuFav</string>
+    <string name="Favorite_user">Favorite User</string>
+    <string name="reminder">Turn On Reminder</string>
+    <string name="reminder_switch">Reminder</string>
+    <string name="notification_content">Lets Check Github Users</string>
+    <string name="notification_toast">Notification Turned On</string>
+    <string name="notification_toast_cancel">Notification Turned Off</string>
+    <string name="data_kosong">Ups..Data Empty</string>
+
+</resources>
