@@ -1,4 +1,4 @@
-Submission akhir dicoding belajar fundamental aplikasi android dicoding, aplikasi ini telah menggunakan teknologi
+Submission akhir dicoding belajar fundamental aplikasi android, aplikasi ini telah menggunakan teknologi
 
 | Retrofit
 | Room Database
